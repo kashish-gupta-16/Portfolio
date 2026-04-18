@@ -8,6 +8,7 @@ export const LeetCodeIcon = () => (
   </svg>
 );
 
+
 export const HackerRankIcon = () => (
   <svg
     viewBox="0 0 24 24"

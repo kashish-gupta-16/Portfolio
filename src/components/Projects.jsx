@@ -14,7 +14,6 @@ const Projects = () => {
           Engineering focused solutions for modern business challenges.
         </p>
       </div>
-
       <div className="grid md:grid-cols-3 gap-8">
         {projects.map((p, i) => {
           const Icon = iconMap[p.iconName];

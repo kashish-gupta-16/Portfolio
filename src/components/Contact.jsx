@@ -18,7 +18,6 @@ const Contact = () => {
       <div className="bg-indigo-600 rounded-[4rem] p-8 md:p-20 grid lg:grid-cols-2 gap-12 shadow-3xl overflow-hidden relative">
         {/* Background glow */}
         <div className="absolute top-0 right-0 w-80 h-80 bg-white/10 rounded-full blur-[100px] -translate-y-1/2 translate-x-1/2"></div>
-
         {/* Left Info */}
         <div className="space-y-10 relative z-10">
           <h2 className="text-6xl font-black uppercase tracking-tighter text-white leading-[0.9]">

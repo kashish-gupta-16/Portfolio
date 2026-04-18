@@ -86,6 +86,7 @@ const Navigation = ({ activeTab, setActiveTab }) => {
         </div>
       )}
     </nav>
+    
   );
 };
 
